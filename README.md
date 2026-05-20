@@ -56,6 +56,4 @@ weightInGms: Product weight in grams
    
 8. Found top 10 best-value products based on discount percentage
 
-3. outOfStock: Boolean flag indicating stock availability
-
-quantity: Number of units per package (mixed with grams for loose produce)
+roduce)
